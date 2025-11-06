@@ -10,3 +10,5 @@ export class GatewayController {
     return this.appService.getData();
   }
 }
+
+
